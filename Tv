@@ -1,0 +1,14 @@
+EXTM3U
+
+#EXTINF:300,Zee Bangla HD
+#EXTVLCOPT:network-caching=1000
+https://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8
+#EXTINF:24,Zee Bangla
+#EXTVLCOPT:network-caching=1000
+http://180.94.28.28:8097//ZEE-BANGLA/index.fmp4.m3u8?token=f0e935f7ded22ca5ec138a8a1bdd0783c143f2f0-72abea8effadde408717c21c70ba02fa-1776169971-1776166371&remote=no_check_ip
+#EXTINF:0,Zee Bangla
+#EXTVLCOPT:network-caching=1000
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/536.ts
+#EXTINF:0,ZEE BANGLA
+#EXTVLCOPT:network-caching=1000
+http://103.159.180.34:5001/live/625.m3u8
